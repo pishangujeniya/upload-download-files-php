@@ -1,0 +1,10 @@
+# Ignoring every files in it.
+*
+*/
+
+
+# except below ones
+!*.md
+!*.gitignore
+!.gitignore
+
